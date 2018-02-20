@@ -41,6 +41,7 @@ release = '0.0.1'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.githubpages',
+    'javasphinx'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
