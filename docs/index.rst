@@ -1,22 +1,43 @@
-.. InSilico documentation master file, created by
-   sphinx-quickstart on Sat Mar 10 14:15:08 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to InSilico's documentation!
 ====================================
+`InSilico` is a graphical editor for biochemical networks.
+
+General information can be found here:
+
+* :ref:`general`
+* :ref:`user-guide`
+
+If you want to contribute to this project or develop your own plugins have
+a look at the developer documentation:
+
+* :ref:`dev-docs`
+
+
+.. _general:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
+   :caption: General
 
-   user/index
-   dev/index
+   about
+   faq
 
 
+.. _user-guide:
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
+   :caption: User Guide
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   user/install
+
+
+.. _dev-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Developer Documentation
+
+   setup_project
+   bundles/index
+   howtos/index
