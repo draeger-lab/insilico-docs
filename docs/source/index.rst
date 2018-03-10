@@ -14,8 +14,8 @@ Welcome to InSilico's documentation!
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Developer Guide
+    :maxdepth: 2
+    :caption: Developer Guide
 
    setup_project
    bundles/index
