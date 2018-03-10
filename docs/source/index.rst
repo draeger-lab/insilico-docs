@@ -6,12 +6,16 @@
 Welcome to InSilico's documentation!
 ====================================
 
+.. _user-docs:
+
 .. toctree::
    :maxdepth: 2
    :caption: User Guide
 
    user/install
 
+
+.. _dev-docs:
 
 .. toctree::
     :maxdepth: 2
