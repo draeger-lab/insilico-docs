@@ -8,7 +8,19 @@ Welcome to InSilico's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: User Guide
+
+   user/install
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Developer Guide
+
+   setup_project
+   bundles/index
+   howtos/index
+
 
 
 
