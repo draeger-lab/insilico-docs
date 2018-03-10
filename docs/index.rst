@@ -1,6 +1,7 @@
 Welcome to InSilico's documentation!
 ====================================
-`InSilico` is a graphical editor for biochemical networks.
+`InSilico` is a graphical editor for biochemical networks. It's developed open
+source. The code can be found on [GitHub](https://github.com/draeger-lab/insilico).
 
 General information can be found here:
 
