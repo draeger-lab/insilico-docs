@@ -41,3 +41,4 @@ a look at the developer documentation:
    setup_project
    bundles/index
    howtos/index
+   code_conventions
