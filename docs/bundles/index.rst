@@ -1,6 +1,6 @@
-================
-InSilico Bundles
-================
+=======
+Bundles
+=======
 
 InSilico is based on the Eclipse Rich Client Platform and therefore uses OSGi bundles.
 

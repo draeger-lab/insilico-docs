@@ -1,5 +1,5 @@
-======================
-InSilico Project Setup
-======================
+=============
+Project Setup
+=============
 
 Setup project for development

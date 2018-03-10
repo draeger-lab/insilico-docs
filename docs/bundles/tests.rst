@@ -1,5 +1,5 @@
-==============
-InSilico Tests
-==============
+=====
+Tests
+=====
 
 Contains test suites for plugins.
