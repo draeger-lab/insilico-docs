@@ -10,11 +10,11 @@ Create A New Plugin
 1. Select :code:`File > New > Project..`
 2. Select :code:`Plug-in Development > Plug-in Project`
 3. Enter the name of the Plugin
-   a. The name should match the symbolic name of the plugin
+   - The name should match the symbolic name of the plugin
 4. Uncheck :code:`Use default location`
 5. Enter the location for the plugin
-   a. The plugin project should be located in :code:`insilico/bundles`
-   b. The name of the folder should match the symbolic name of the plugin
+   - The plugin project should be located in :code:`insilico/bundles`
+   - The name of the folder should match the symbolic name of the plugin
 6. Select :code:`Next`
 7. (Optional) Check :code:`Generate an activator` if you want to have a preconfigured activator class.
 8. (Optional) Check :code:`This plug-in will make contribution to the UI` if the plugin will contribute menus, parts, etc.
@@ -33,7 +33,7 @@ needed informations.
 1. Right click on your plugin project
 2. Select :code:`File > New > File`
 3. Name it :code:`pom.xml`
-  a. Ensure your project folder is entered in the top textfield.
+   - Ensure your project folder is entered in the top textfield.
 4. Select :code:`Finish`
 5. Open :code:`pom.xml`
 6. Copy and Paste the template from below
