@@ -8,4 +8,5 @@ This pages are a collection of useful knowledge about common tasks.
    :maxdepth: 2
    :caption: General
 
-   add_bundle
+   plugins
+   features
