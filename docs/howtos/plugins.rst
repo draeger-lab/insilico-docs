@@ -82,7 +82,7 @@ needed informations.
     </project>
 
 After these steps your project contains all the information maven needs to build your plugin.
-But there's still one final piece missing: Everytime we build InSilico using Maven Tycho
+But there's still one final piece missing: Every time we build InSilico using Maven Tycho
 we want the our new plugin to be included in that build. To do so we will make
 our new project a submodule of InSilico.
 
@@ -93,7 +93,7 @@ our new project a submodule of InSilico.
    - If you followed the recommended style you will have to insert the symbolic name of your plugin
 
 Verify the setup by running :code:`mvn clean verify` in the root project of InSilico.
-When the build succeds you should see the name or the symbolic name of your plugin in the
+When the build succeeds you should see the name or the symbolic name of your plugin in the
 final result list.
 
 
